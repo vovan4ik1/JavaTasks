@@ -1,9 +1,10 @@
+package Laba3;
+
 import game.Employee;
 import game.Schoolar;
 import game.Student;
 import game.Team;
 
-package Laba3;
 
 public class Main {
     public static void main(String[] args) throws Exception {
